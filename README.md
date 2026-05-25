@@ -1,4 +1,4 @@
-# 🚀 Generative AI using LangChain
+#  Generative AI using LangChain
 
 <p align="center">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="180" alt="LangChain Logo"/>
@@ -27,28 +27,28 @@ A Complete Generative AI Learning Roadmap & Practical Implementation Guide using
 
 ---
 
-# 📌 About This Repository
+#  About This Repository
 
 This repository is a complete roadmap for learning **Generative AI** with hands-on implementation using **LangChain**.
 
 It contains:
 
-✅ Beginner to Advanced GenAI Concepts
-✅ LangChain Tutorials & Notes
-✅ Prompt Engineering
-✅ RAG Applications
-✅ AI Agents
-✅ Real-World Projects
-✅ Deployment Guides
-✅ Practical Code Examples
+- Beginner to Advanced GenAI Concepts
+- LangChain Tutorials & Notes
+- Prompt Engineering
+- RAG Applications
+- AI Agents
+- Real-World Projects
+- Deployment Guides
+- Practical Code Examples
 
 Whether you're a beginner or an AI enthusiast, this repo will help you build real-world AI applications step by step.
 
 ---
 
-# 🧠 Learning Roadmap
+#  Learning Roadmap
 
-## 1️⃣ AI & NLP Foundations
+## 1️ AI & NLP Foundations
 
 * Machine Learning Basics
 * Deep Learning Fundamentals
@@ -60,7 +60,7 @@ Whether you're a beginner or an AI enthusiast, this repo will help you build rea
 
 ---
 
-## 2️⃣ Generative AI Fundamentals
+## 2️ Generative AI Fundamentals
 
 * Large Language Models (LLMs)
 * GPT Models
@@ -72,7 +72,7 @@ Whether you're a beginner or an AI enthusiast, this repo will help you build rea
 
 ---
 
-## 3️⃣ LangChain Mastery
+## 3️ LangChain Mastery
 
 * LangChain Components
 * Chains & Sequential Chains
@@ -84,7 +84,7 @@ Whether you're a beginner or an AI enthusiast, this repo will help you build rea
 
 ---
 
-## 4️⃣ RAG (Retrieval-Augmented Generation)
+## 4️ RAG (Retrieval-Augmented Generation)
 
 * Document Loaders
 * Text Splitters
@@ -96,7 +96,7 @@ Whether you're a beginner or an AI enthusiast, this repo will help you build rea
 
 ---
 
-## 5️⃣ AI Agents & Automation
+## 5️ AI Agents & Automation
 
 * Autonomous Agents
 * Tool Calling
@@ -106,7 +106,7 @@ Whether you're a beginner or an AI enthusiast, this repo will help you build rea
 
 ---
 
-## 6️⃣ Real-World Projects
+## 6️ Real-World Projects
 
 * AI Chatbot
 * PDF Question Answering
@@ -117,7 +117,7 @@ Whether you're a beginner or an AI enthusiast, this repo will help you build rea
 
 ---
 
-## 7️⃣ Deployment & Production
+## 7️ Deployment & Production
 
 * FastAPI Integration
 * Streamlit Apps
@@ -128,7 +128,7 @@ Whether you're a beginner or an AI enthusiast, this repo will help you build rea
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```bash
 Generative-AI-using-LangChain/
@@ -148,21 +148,21 @@ Generative-AI-using-LangChain/
 
 ---
 
-# ⚡ Getting Started
+#  Getting Started
 
-## 🔹 Clone the Repository
+##  Clone the Repository
 
 ```bash
 git clone https://github.com/Sakhawathossen04/Generative-AI-using-LangChain.git
 ```
 
-## 🔹 Navigate to Project Folder
+##  Navigate to Project Folder
 
 ```bash
 cd Generative-AI-using-LangChain
 ```
 
-## 🔹 Create Virtual Environment
+##  Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -184,7 +184,7 @@ source venv/bin/activate
 
 ---
 
-## 🔹 Install Dependencies
+##  Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -192,7 +192,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 Create a `.env` file:
 
@@ -202,7 +202,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 * Python
 * LangChain
@@ -216,7 +216,7 @@ OPENAI_API_KEY=your_api_key_here
 
 ---
 
-# 📘 Example: Simple LangChain Chain
+#  Example: Simple LangChain Chain
 
 ```python
 from langchain_openai import ChatOpenAI
@@ -239,7 +239,7 @@ print(response)
 
 ---
 
-# 🌟 Features
+#  Features
 
 ✨ Beginner Friendly
 ✨ Structured Learning Path
@@ -251,7 +251,7 @@ print(response)
 
 ---
 
-# 📚 Best Resources
+#  Best Resources
 
 ## Official Docs
 
@@ -266,7 +266,7 @@ print(response)
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome!
 
@@ -280,13 +280,13 @@ If you want to improve this repository:
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## Sakhawathossen
 
