@@ -12,7 +12,7 @@ A Complete Generative AI Learning Roadmap & Practical Implementation Guide using
   Learn • Build • Deploy AI Applications with Real-World Projects
 </p>
 
----
+----
 
 <div align="center">
 
