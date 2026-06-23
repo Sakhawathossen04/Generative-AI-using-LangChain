@@ -1,4 +1,4 @@
-#  Generative AI using LangChain
+#  Generative AI using LangChain.
 <p align="center">
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="180" alt="LangChain Logo"/>
 </p>
