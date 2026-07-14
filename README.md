@@ -268,7 +268,7 @@ print(response)
 
 #  Contributing
 
-Contributions are welcome!
+Contributions are welcome
 
 If you want to improve this repository:
 
