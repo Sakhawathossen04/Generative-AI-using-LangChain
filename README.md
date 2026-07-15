@@ -241,9 +241,9 @@ print(response)
 
 #  Features
 
-✨ Beginner Friendly
-✨ Structured Learning Path
-✨ Real Project Implementations
+✨ Beginner Friendly.
+✨ Structured Learning Path.
+✨ Real Project Implementations.
 ✨ Practical Examples
 ✨ Updated GenAI Resources
 ✨ Clean Folder Structure
