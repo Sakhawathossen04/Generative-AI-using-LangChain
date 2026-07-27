@@ -27,7 +27,7 @@ A Complete Generative AI Learning Roadmap & Practical Implementation Guide using
 
 ---
 
-#  About This Repository
+#  About This Repository..
 
 This repository is a complete roadmap for learning **Generative AI** with hands-on implementation using **LangChain**.
 
